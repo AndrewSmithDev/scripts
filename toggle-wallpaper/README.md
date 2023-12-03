@@ -1,0 +1,1 @@
+A script that toggles between two wallpapers

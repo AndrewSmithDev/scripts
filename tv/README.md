@@ -1,0 +1,2 @@
+A script that switch between displays and launch steam. Currently it will toggle between display 1 and 2. 
+When it switches to display 1, it will launch steam normally. When it switches to display 2, it will launch steam in big picture mode.
